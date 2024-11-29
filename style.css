@@ -1,14 +1,14 @@
  /* Estilos para el encabezado */
  header {
-    background-color: #3537be;
+    background-color: #be359e;
     padding: 20px;
     text-align: center;
-    color: rgb(39, 143, 184);
+    color: rgb(172, 18, 134);
 }
 
 /* Estilos para la barra de navegación */
 nav a {
-    color: rgb(25, 174, 211);
+    color: rgb(78, 7, 99);
     text-decoration: none;
     margin: 0 15px;
     font-weight: bold;
@@ -23,7 +23,7 @@ nav a:hover {
     width: 90%;
     margin: 20px auto;
     padding: 15px;
-    background-color: #bcb5b5;
+    background-color: #90528e;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
